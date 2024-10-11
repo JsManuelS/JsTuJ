@@ -4,7 +4,7 @@ require("dotenv").config();
 const chat = async (prompt, text) => {
     try {
         const configuration = new Configuration({
-            apiKey: process.env.OPENAI_API_KEY,
+            apiKey: process.OPENAI_API_KEY,
         });
         const openai = new OpenAIApi(configuration);
         const completion = await openai.createChatCompletion({
