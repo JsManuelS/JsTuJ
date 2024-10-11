@@ -1,0 +1,17 @@
+🎉 ¡Bienvenido a **EL TURRONERO**! 🍽️✨  
+¡Descubre lo mejor de nuestro **TURRONES** con solo un clic! 🤩  
+Elige una opción y disfruta del mejor servicio:
+
+Opcion 1️⃣ **Método de pago** 💳  
+    ¿Listo para confirmar tu pedido? ¡Elige cómo pagar de manera rápida y segura!
+
+Opcion 2️⃣ **Estado de mi pedido** 🚚  
+    ¡Tu comida está en camino! 🌟 Consulta en qué etapa está y prepárate para disfrutar.
+
+Opcion 3️⃣ **Consultas** ❓  
+    ¿Tienes alguna duda o quieres saber más sobre nuestros deliciosos platos? ¡Estamos aquí para ayudarte!
+
+Opcion 0️⃣ **Salir** 👋  
+    ¿Te vas ya? 😢 ¡Te esperamos pronto para que vuelvas a disfrutar de nuestros sabores!
+
+👉 Elige una opción escribiendo el número correspondiente. ¡Estamos ansiosos de atenderte y brindarte una experiencia única! 😄🍴

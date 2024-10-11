@@ -1,0 +1,12 @@
+✉️ Reserva tu Turrón Favorito:
+
+- Escribe la Letra **J** para reservar el Turrón: "Joel"
+  💰 Precio: S/ 20.00
+
+- Escribe la Letra **S** para reservar el Turrón: "San José"
+  💰 Precio: S/ 38.00
+
+- Escribe la Letra **D** para reservar el Turrón: "Doña Pepa"
+  💰 Precio: S/ 30.00
+
+¡Elige tu favorito y reserva ahora! 😋

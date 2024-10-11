@@ -1,0 +1,167 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51910387988@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B420E759C55A22E64E',
+    participant: undefined
+  },
+  messageTimestamp: 1728629837,
+  pushName: 'JsManuel',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51910387988'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_84516610-0e9a-40f9-b4df-d10334b61fd7',
+  keyword: 'key_1c867dea-92fe-4b79-8f9b-2754a54e404f',
+  answer: '🎉¡Bienvenid@ a El Turronero! 🎉\n' +
+    '😄Nos alegra tenerte aquí y estamos listos para ofrecerte los mejores turrones. 🍬✨\n' +
+    '👇Echa un vistazo a nuestro delicioso turrones🤤:\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7b6ec9330ee746d4edd67f2127c755eb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b47c60c4-6405-4123-98b3-41ef61f83161',
+  keyword: 'ans_84516610-0e9a-40f9-b4df-d10334b61fd7',
+  answer: '📝Nuestro Productos Disponibles: 📜\n',
+  options: {
+    media: 'https://i.postimg.cc/XNrcq7d6/turron-joel-en-caja-16-turron-joel.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd08fd68e4ba6f2821c460468bfaf6092'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_966decfe-f364-4f0d-add0-b19b431c9ee0',
+  keyword: 'ans_b47c60c4-6405-4123-98b3-41ef61f83161',
+  answer: '"*RESERVAR POR WHATSAPP*" ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61c945116c06fe65afbf653ecee793f4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_990a509f-6afa-4b18-8f6d-a6a84e22aec2',
+  keyword: 'ans_966decfe-f364-4f0d-add0-b19b431c9ee0',
+  answer: 'Escribe la Letra *R* para reserva tu Turron: "*RESERVAR POR AQUI*" ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c347f5f3f81dc8c1f458b3512751daea'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eea555e4-4263-45cc-9e79-69e39be5d989',
+  keyword: 'ans_990a509f-6afa-4b18-8f6d-a6a84e22aec2',
+  answer: '"*🚚 ¡Entregas disponibles solo los Martes y Jueves por WhatsApp! 📅📲*"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b10cbf89fb1ef9a2e72b6ae2f9f8bba9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b76f685f-8b50-4b2d-8992-391194b1c6aa',
+  keyword: 'ans_eea555e4-4263-45cc-9e79-69e39be5d989',
+  answer: '"*RESERVAR POR PAGINA WEB*" ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '739bf4c7477d4703ac5ff09dfa2b5acc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_410e6d79-7fc2-46db-a906-a5a4127fca6e',
+  keyword: 'ans_b76f685f-8b50-4b2d-8992-391194b1c6aa',
+  answer: '🍽️ O Tambien ¡Haz tu reserva ahora! 👇\n' +
+    'Aquí tienes el enlace:👇Reserva aquí👇 https://script.google.com/macros/s/AKfycbw55M5alwCk5OfUu1lRwkmAtDZxYKOv-z7Xl3uOO8ZzeCuKWEiMaUpjp1etYMbwDAlO2A/exec',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2ceac31dbfc39282a300f0344e2b7503'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1242165d-133f-4089-898b-f04135cb396d',
+  keyword: 'ans_410e6d79-7fc2-46db-a906-a5a4127fca6e',
+  answer: '"*🚚 ¡La entrega se realiza el día que desees o inmediata a través de la página web! 📅*"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b53a23dc8012a6f2fcac813fa47ed25a'
+}
