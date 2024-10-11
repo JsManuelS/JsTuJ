@@ -174,7 +174,7 @@ const flowdoñapepa = addKeyword(['3'])
 
 const main = async () => {
   const adapterDB = new MongoAdapter ({
-        dbUri: process.env.MONGO_DB_URI,
+        dbUri: process.MONGO_DB_URI,
         dbName: "JsManuel"
   })
   const adapterFlow = createFlow([flowWelcome,menuReserv,flowjoel,recolectarDatos,flowVoice])
